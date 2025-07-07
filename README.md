@@ -10,28 +10,97 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Languages and Tools
 
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> 
-<img src="https://cdn.simpleicons.org/c++/00599C" height="30"/> 
-<img src="https://cdn.simpleicons.org/c/A8B9CC" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+<p align="left">
 
-**Tools & Frameworks:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30"/>
+  <!-- Programming Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
 
-**Data & ML:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30"/> 
-<img src="https://skillicons.dev/icons?i=mysql" height="30"/> 
+  <!-- AI/ML & Data Science -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/> 
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Colab" width="40" height="40"/>
+  </a>
 
-**Design & Creative:**  
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="30"/> 
-<img src="https://cdn.simpleicons.org/figma/F24E1E" height="30"/> 
-<img src="https://skillicons.dev/icons?i=blender" height="30"/>
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
+
+  <!-- Operating Systems -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/redhat/EE0000" alt="Red Hat" width="40" height="40"/> 
+  </a>
+
+  <!-- IDEs -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> 
+  </a>
+
+  <!-- Design -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" width="40" height="40"/> 
+  </a>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/> 
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> 
+  </a>
+
+  <!-- Platforms & Help -->
+  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" width="40" height="40"/> 
+  </a>
+
+  <!-- Mobile & Backend -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
+  </a>
+
+  <!-- Hardware -->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
+  </a>
+
+  <!-- Simulation -->
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/> 
+  </a>
+
+</p>
 
 ---
 
