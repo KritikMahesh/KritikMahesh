@@ -82,12 +82,19 @@
 
 ### 🚀 Featured Projects
 
-- **🧠 NeuroSense** – *Best Paper @ AEIT 2025*  
-  Real-time cognitive load detection using facial expressions & simulated EEG data  
-- **📊 ML Risk Prediction Model** – *Tata GenAI Simulation*  
-  Built a no-code AI model to detect credit delinquency  
-- **🧾 Feedback Optimizer (WIP)** –  
-  NLP-powered feedback analyzer for education platforms
+
+- **🗂 Sentiment Analysis on Tweets** – *NLP Pipeline Development*  
+  Designed and implemented a machine learning pipeline to classify tweets into positive, negative, and neutral sentiments using real-world Twitter data.  
+  **Tech Stack:** Python, scikit-learn, NLTK, Matplotlib  
+
+- **📉 Customer Churn Prediction** – *Predictive Analytics Model*  
+  Developed a classification model to identify customers at high risk of churn, enabling proactive retention strategies.  
+  **Tech Stack:** Python, Pandas, scikit-learn, Matplotlib  
+
+- **🔢 Handwritten Digit Recognition (MNIST)** – *Deep Learning Model*  
+  Built and trained a neural network to recognize handwritten digits from the MNIST dataset, achieving high accuracy through optimized preprocessing and model tuning.  
+  **Tech Stack:** TensorFlow, Keras, Matplotlib, NumPy  
+
 
 ---
 
