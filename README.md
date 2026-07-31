@@ -192,25 +192,27 @@ Recognizes handwritten digits using a trained neural network.
 
 ### 🧠 Intelligence
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=flat-square" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas&theme=light" alt="Python, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, and Pandas" />
+</picture>
+
+</div>
 
 ### ☁️ Cloud & Data
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,mysql,dynamodb,lambda,apigateway&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,mysql,dynamodb,lambda,apigateway&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,mysql,dynamodb,lambda,apigateway&theme=light" alt="AWS, Firebase, MySQL, DynamoDB, Lambda, and API Gateway" />
+</picture>
+
+</div>
 
 ### ⚙️ Engineering Inventory
 
