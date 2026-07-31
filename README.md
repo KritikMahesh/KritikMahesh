@@ -1,127 +1,180 @@
-<h2 align="center">Hey there! I'm Kritik 👋</h2>
-<h4 align="center">AI/ML Enthusiast • Final-Year CSE Student @ Manipal Dubai • Dev, Creator & Curious Mind</h4>
-
----
-
-### 🛠️ Currently Working On
-- Improving my ML portfolio using Python, Scikit-learn & Hugging Face
-- Exploring AI + Robotics for real-world solutions
-- Building full-stack apps with Flutter and Firebase
-
----
-
-### 💻 Languages and Tools
 <div align="center">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
 
-  <!-- Data & ML Tools -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="30" alt="colab logo" />
-  <img width="12" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="30" alt="huggingface logo" />
+# Hey, I'm Kritik Mahesh Kumar 👋
 
-  <!-- Database -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+### AI & Machine Learning Engineer · GenAI Builder · Full-Stack Developer
 
-  <!-- OS -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo" />
+<p>
+  <a href="https://www.linkedin.com/in/kritikmahesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/KritikMahesh">
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://kritikmaheshkumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-  <!-- IDEs -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
+<img src="https://komarev.com/ghpvc/?username=KritikMahesh&label=Profile%20Views&color=0A66C2&style=flat" />
 
-  <!-- Design Tools -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="30" alt="framer logo" />
-
-  <!-- Hardware & Mobile -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-
-  <!-- Simulation -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
-
-  <!-- Cloud & Community -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="30" alt="stackoverflow logo" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 👋 About Me
 
+I’m a **Computer Science & Engineering graduate from Manipal Academy of Higher Education, Dubai**, focused on turning emerging technologies into useful, real-world systems.
 
-- **🗂 Sentiment Analysis on Tweets** – *NLP Pipeline Development*  
-  Designed and implemented a machine learning pipeline to classify tweets into positive, negative, and neutral sentiments using real-world Twitter data.  
-  **Tech Stack:** Python, scikit-learn, NLTK, Matplotlib  
+My current interests include:
 
-- **📉 Customer Churn Prediction** – *Predictive Analytics Model*  
-  Developed a classification model to identify customers at high risk of churn, enabling proactive retention strategies.  
-  **Tech Stack:** Python, Pandas, scikit-learn, Matplotlib  
+- Artificial Intelligence and Machine Learning
+- Generative AI and Agentic AI
+- Computer Vision
+- AWS cloud architecture
+- Developer tools and intelligent automation
+- Full-stack product development
 
-- **🔢 Handwritten Digit Recognition (MNIST)** – *Deep Learning Model*  
-  Built and trained a neural network to recognize handwritten digits from the MNIST dataset, achieving high accuracy through optimized preprocessing and model tuning.  
-  **Tech Stack:** TensorFlow, Keras, Matplotlib, NumPy  
-
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KritikMahesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=KritikMahesh&theme=dracula&hide_border=false" height="150"/>
-</div>
+I’m also a former core team member of **GDSC** and **IEEE**, and I learn best by building, experimenting, and collaborating.
 
 <details>
-<summary>🏆 GitHub Trophies</summary>
-<br />
-<img src="https://github-profile-trophy.vercel.app?username=KritikMahesh&theme=dracula&margin-w=8&margin-h=8"/>
+<summary>✨ A little more about me</summary>
+
+- 📍 Based in Dubai, United Arab Emirates
+- 🎓 CSE Graduate @ MAHE Dubai
+- 🤖 AWS & Tata GenAI Certified
+- 🧠 Open to AI/ML, software engineering, and GenAI opportunities
+- 🚀 Interested in ideas that combine technology with real-world impact
+
 </details>
 
 ---
 
-### 📊 Activity Graph
+## 🚀 What I’m Exploring
+
+| Area | Current Focus |
+| --- | --- |
+| 🤖 AI | Generative AI, agentic systems, intelligent workflows |
+| 👁️ Computer Vision | Real-time detection and visual intelligence |
+| ☁️ Cloud | Serverless AWS systems and scalable architectures |
+| 🧩 Developer Tools | IDE extensions and developer experience |
+| 📱 Product Engineering | Flutter, Firebase, APIs, and full-stack applications |
+
+---
+
+## 🌟 Featured Builds
+
+### 🚦 TrafficIQ — AI-Powered Traffic Intelligence
+
+A serverless computer-vision concept designed to transform existing CCTV infrastructure into a real-time traffic monitoring system.
+
+**Built with:** AWS Rekognition · Lambda · DynamoDB · SNS · API Gateway
+
+- Detects and classifies road congestion
+- Sends real-time alerts
+- Visualizes traffic conditions through a live dashboard
+- Designed without requiring additional roadside hardware
+
+---
+
+### 🧩 Developer Behavior IDE Plugin
+
+A hackathon project exploring how coding activity, interruptions, and workflow patterns can help understand developer behavior inside an IDE.
+
+**Focus:** Developer experience · IDE extensions · Human-centered engineering
+
+---
+
+### 🧠 Applied Machine Learning Portfolio
+
+A collection of practical ML projects covering:
+
+- Sentiment analysis on tweets
+- Customer churn prediction
+- Handwritten digit recognition using MNIST
+- Predictive modeling and data visualization
+- Model evaluation and experimentation
+
+<details>
+<summary>🛠️ Technologies used across these projects</summary>
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `NLTK`  
+`TensorFlow` `Keras` `Matplotlib` `Jupyter` `Hugging Face`
+
+</details>
+
+---
+
+## 🧰 Toolbox
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&radius=16&theme=react&area=true" height="300"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,aws,firebase,flutter,mysql,linux,git,github,vscode,figma,arduino,matlab,blender" />
+
+</div>
+
+<p align="center">
+
+`Python` · `Machine Learning` · `Generative AI` · `AWS` · `Computer Vision`  
+`Flutter` · `Firebase` · `SQL` · `TensorFlow` · `Scikit-learn` · `Hugging Face`
+
+</p>
+
+---
+
+<details>
+<summary>🏆 Communities, Hackathons & Learning</summary>
+
+- Former GDSC Core Team Member
+- Former IEEE Core Team Member
+- AI for Sustainability Hackathon
+- GDG on Campus Hackathons
+- Agentic AI conferences and workshops
+- AWS and Tata GenAI certification journey
+
+</details>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KritikMahesh&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=KritikMahesh&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<details>
+<summary>🏆 GitHub Trophies</summary>
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=KritikMahesh&theme=tokyonight&margin-w=8&margin-h=8" />
+
+</details>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
 
-### 🌐 Let’s Connect!
+## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kritik-mahesh-kumar-9969b0275/)
-- 🌐 [Portfolio](https://kritikmahesh.framer.website/)
+I’m always open to conversations about AI, machine learning, GenAI, developer tools, and interesting problems worth building for.
+
+<p>
+  <a href="https://www.linkedin.com/in/kritikmahesh/">LinkedIn</a> ·
+  <a href="https://kritikmaheshkumar.netlify.app/">Portfolio</a> ·
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
+
+<div align="center">
+
+### Build. Learn. Experiment. Repeat. 🚀
+
+</div>
