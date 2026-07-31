@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Kritik Mahesh Kumar 👋
+# Hey, I'm Kritik Mahesh 👋
 
 ### AI & Machine Learning Engineer · GenAI Builder · Full-Stack Developer
 
