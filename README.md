@@ -190,35 +190,63 @@ Recognizes handwritten digits using a trained neural network.
 
 ## 🌳 Skill Tree
 
-### 🧠 Intelligence
+### 🧠 Intelligence & Data
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas&theme=light" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas&theme=light" alt="Python, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, and Pandas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas%2Ckaggle%2Cjupyter%2Cgooglecolab&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas%2Ckaggle%2Cjupyter%2Cgooglecolab&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas%2Ckaggle%2Cjupyter%2Cgooglecolab&theme=light" alt="Python, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, Pandas, Kaggle, Jupyter, and Google Colab" />
 </picture>
 
 </div>
 
-### ☁️ Cloud & Data
+### ☁️ Cloud & Backend
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=light" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=light" alt="AWS, Firebase, MySQL, DynamoDB, Lambda, and API Gateway" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cazure%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cazure%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cazure%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=light" alt="AWS, Azure, Firebase, MySQL, DynamoDB, Lambda, and API Gateway" />
 </picture>
 
 </div>
 
-### ⚙️ Engineering Inventory
+### 💻 Languages & App Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,aws,firebase,flutter,mysql,linux,git,github,vscode,figma,arduino" alt="Technology stack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=java%2Ccpp%2Cc%2Cflutter%2Carduino&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=java%2Ccpp%2Cc%2Cflutter%2Carduino&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java%2Ccpp%2Cc%2Cflutter%2Carduino&theme=light" alt="Java, C++, C, Flutter, and Arduino" />
+</picture>
+
+</div>
+
+### 🛠️ Systems & Developer Tools
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=linux%2Credhat%2Cvscode%2Cvisualstudio%2Cgit%2Cgithub%2Cstackoverflow&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=linux%2Credhat%2Cvscode%2Cvisualstudio%2Cgit%2Cgithub%2Cstackoverflow&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux%2Credhat%2Cvscode%2Cvisualstudio%2Cgit%2Cgithub%2Cstackoverflow&theme=light" alt="Linux, Red Hat, VS Code, Visual Studio, Git, GitHub, and Stack Overflow" />
+</picture>
+
+</div>
+
+### 🎨 Design & Simulation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=figma%2Ccanva%2Cframer%2Cmatlab%2Cblender&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=figma%2Ccanva%2Cframer%2Cmatlab%2Cblender&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=figma%2Ccanva%2Cframer%2Cmatlab%2Cblender&theme=light" alt="Figma, Canva, Framer, MATLAB, and Blender" />
+</picture>
 
 </div>
 
