@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/Email-SEND_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=KritikMahesh&label=PLAYERS%20VISITED&color=2563eb&style=flat-square" alt="Profile views" />
+<br />
 
 </div>
 
@@ -253,15 +251,21 @@ Recognizes handwritten digits using a trained neural network.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KritikMahesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Kritik's GitHub statistics" />
-
-<img src="https://streak-stats.demolab.com?user=KritikMahesh&theme=tokyonight&hide_border=true" height="170" alt="Kritik's GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KritikMahesh&theme=github-dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=KritikMahesh&theme=github-light&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KritikMahesh&theme=github-light&hide_border=true" height="170" alt="Kritik's GitHub streak" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&theme=tokyo-night&hide_border=true&area=true" alt="Kritik's GitHub activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&theme=github-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&theme=github-light&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&theme=github-light&hide_border=true&area=true" alt="Kritik's GitHub activity graph" />
+</picture>
 
 </div>
 
