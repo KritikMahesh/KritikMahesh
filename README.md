@@ -195,9 +195,9 @@ Recognizes handwritten digits using a trained neural network.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas&theme=light" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas&theme=light" alt="Python, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, and Pandas" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python%2Ctensorflow%2Cscikitlearn%2Chuggingface%2Copencv%2Cnumpy%2Cpandas&theme=light" alt="Python, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, and Pandas" />
 </picture>
 
 </div>
@@ -207,9 +207,9 @@ Recognizes handwritten digits using a trained neural network.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,mysql,dynamodb,lambda,apigateway&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,mysql,dynamodb,lambda,apigateway&theme=light" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,firebase,mysql,dynamodb,lambda,apigateway&theme=light" alt="AWS, Firebase, MySQL, DynamoDB, Lambda, and API Gateway" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=light" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws%2Cfirebase%2Cmysql%2Cdynamodb%2Clambda%2Capigateway&theme=light" alt="AWS, Firebase, MySQL, DynamoDB, Lambda, and API Gateway" />
 </picture>
 
 </div>
