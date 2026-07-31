@@ -1,180 +1,303 @@
-<div align="center">
-
-# Hey, I'm Kritik Mahesh 👋
-
-### AI & Machine Learning Engineer · GenAI Builder · Full-Stack Developer
-
-<p>
-  <a href="https://www.linkedin.com/in/kritikmahesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/KritikMahesh">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://kritikmaheshkumar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=KritikMahesh&label=Profile%20Views&color=0A66C2&style=flat" />
-
-</div>
-
----
-
-## 👋 About Me
-
-I’m a **Computer Science & Engineering graduate from Manipal Academy of Higher Education, Dubai**, focused on turning emerging technologies into useful, real-world systems.
-
-My current interests include:
-
-- Artificial Intelligence and Machine Learning
-- Generative AI and Agentic AI
-- Computer Vision
-- AWS cloud architecture
-- Developer tools and intelligent automation
-- Full-stack product development
-
-I’m also a former core team member of **GDSC** and **IEEE**, and I learn best by building, experimenting, and collaborating.
-
-<details>
-<summary>✨ A little more about me</summary>
-
-- 📍 Based in Dubai, United Arab Emirates
-- 🎓 CSE Graduate @ MAHE Dubai
-- 🤖 AWS & Tata GenAI Certified
-- 🧠 Open to AI/ML, software engineering, and GenAI opportunities
-- 🚀 Interested in ideas that combine technology with real-world impact
-
-</details>
-
----
-
-## 🚀 What I’m Exploring
-
-| Area | Current Focus |
-| --- | --- |
-| 🤖 AI | Generative AI, agentic systems, intelligent workflows |
-| 👁️ Computer Vision | Real-time detection and visual intelligence |
-| ☁️ Cloud | Serverless AWS systems and scalable architectures |
-| 🧩 Developer Tools | IDE extensions and developer experience |
-| 📱 Product Engineering | Flutter, Firebase, APIs, and full-stack applications |
-
----
-
-## 🌟 Featured Builds
-
-### 🚦 TrafficIQ — AI-Powered Traffic Intelligence
-
-A serverless computer-vision concept designed to transform existing CCTV infrastructure into a real-time traffic monitoring system.
-
-**Built with:** AWS Rekognition · Lambda · DynamoDB · SNS · API Gateway
-
-- Detects and classifies road congestion
-- Sends real-time alerts
-- Visualizes traffic conditions through a live dashboard
-- Designed without requiring additional roadside hardware
-
----
-
-### 🧩 Developer Behavior IDE Plugin
-
-A hackathon project exploring how coding activity, interruptions, and workflow patterns can help understand developer behavior inside an IDE.
-
-**Focus:** Developer experience · IDE extensions · Human-centered engineering
-
----
-
-### 🧠 Applied Machine Learning Portfolio
-
-A collection of practical ML projects covering:
-
-- Sentiment analysis on tweets
-- Customer churn prediction
-- Handwritten digit recognition using MNIST
-- Predictive modeling and data visualization
-- Model evaluation and experimentation
-
-<details>
-<summary>🛠️ Technologies used across these projects</summary>
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `NLTK`  
-`TensorFlow` `Keras` `Matplotlib` `Jupyter` `Hugging Face`
-
-</details>
-
----
-
-## 🧰 Toolbox
+<!-- ===================== PLAYER HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,aws,firebase,flutter,mysql,linux,git,github,vscode,figma,arduino,matlab,blender" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=210&section=header&text=PLAYER%2001%20%2F%2F%20KRITIK&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Curious%20Mind&descAlignY=58" alt="Kritik profile header" />
 
-</div>
-
-<p align="center">
-
-`Python` · `Machine Learning` · `Generative AI` · `AWS` · `Computer Vision`  
-`Flutter` · `Firebase` · `SQL` · `TensorFlow` · `Scikit-learn` · `Hugging Face`
-
-</p>
-
----
-
-<details>
-<summary>🏆 Communities, Hackathons & Learning</summary>
-
-- Former GDSC Core Team Member
-- Former IEEE Core Team Member
-- AI for Sustainability Hackathon
-- GDG on Campus Hackathons
-- Agentic AI conferences and workshops
-- AWS and Tata GenAI certification journey
-
-</details>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KritikMahesh&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=KritikMahesh&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=INITIALIZING+KRITIK.EXE...;CLASS%3A+AI+%26+MACHINE+LEARNING+ENGINEER;MAIN+QUEST%3A+BUILD+INTELLIGENT+SYSTEMS;STATUS%3A+READY+FOR+THE+NEXT+CHALLENGE" alt="Typing animation" />
+</a>
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=KritikMahesh&theme=tokyonight&margin-w=8&margin-h=8" />
+<a href="https://www.linkedin.com/in/kritikmahesh/">
+  <img src="https://img.shields.io/badge/LinkedIn-ENTER_PORTAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://kritikmaheshkumar.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-VIEW_WORLD-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:kritikmahesh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-SEND_MESSAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-</details>
+<br /><br />
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&theme=tokyo-night&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=KritikMahesh&label=PLAYERS%20VISITED&color=2563eb&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+<div align="center">
 
-I’m always open to conversations about AI, machine learning, GenAI, developer tools, and interesting problems worth building for.
+### 🗺️ SELECT DESTINATION
+
+[🎯 Main Quest](#-main-quest) •
+[📜 Quest Log](#-quest-log) •
+[🌳 Skill Tree](#-skill-tree) •
+[🏅 Achievements](#-achievements) •
+[📊 Player Stats](#-player-telemetry) •
+[🤝 Co-op Mode](#-enter-co-op-mode)
+
+</div>
+
+---
+
+## 🧑‍🚀 Player Profile
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  NAME       Kritik Mahesh Kumar                          │
+│  CLASS      AI & Machine Learning Engineer               │
+│  ORIGIN     Computer Science & Engineering               │
+│  ACADEMY    MAHE Dubai                                   │
+│  BASE       Dubai, United Arab Emirates                  │
+│  GUILDS     Former GDSC & IEEE Core Team                 │
+│  STATUS     Open to AI/ML, GenAI & Software roles        │
+└──────────────────────────────────────────────────────────┘
+```
+
+I build practical systems where **artificial intelligence, cloud computing, and software engineering** meet.
+
+My focus is not just training models. I want to turn ideas into working products that can detect, predict, automate, and solve meaningful problems.
+
+---
+
+## 🎯 Main Quest
+
+> **Build intelligent systems that create real-world value.**
+
+```text
+CURRENT MISSION
+├── Explore Generative AI and autonomous agents
+├── Build cloud-native AI applications
+├── Apply computer vision to urban challenges
+├── Create useful developer tools
+└── Keep learning through projects and hackathons
+```
+
+<details>
+<summary><b>🔍 Inspect player background</b></summary>
+
+<br />
+
+- 🎓 Computer Science & Engineering Graduate from **MAHE Dubai**
+- 🤖 Focused on **AI, Machine Learning, and Generative AI**
+- ☁️ Building with **AWS and serverless cloud architecture**
+- 🧠 Interested in **Agentic AI, computer vision, and automation**
+- 🏛️ Former core team member at **GDSC and IEEE**
+- 🏙️ Based in **Dubai, United Arab Emirates**
+- 🚀 Open to opportunities across AI/ML and software engineering
+
+</details>
+
+---
+
+## 📜 Quest Log
+
+| Quest | Objective | Status |
+|:--|:--|:--:|
+| 🚦 **TrafficIQ** | Transform CCTV feeds into real-time traffic intelligence | `PROTOTYPE BUILT` |
+| 🧩 **Developer Behavior Plugin** | Explore developer workflows through a JetBrains IDE extension | `HACKATHON BUILD` |
+| 🤖 **Agentic AI Lab** | Study autonomous workflows, secure agents, and AI applications | `ACTIVE` |
+| 🧠 **ML Portfolio** | Build and document practical machine-learning models | `EXPANDING` |
+
+---
+
+<details open>
+<summary><b>🚦 QUEST 01 — TrafficIQ</b></summary>
+
+### AI-Powered Traffic Intelligence
+
+Cities already have thousands of cameras generating unused visual data. TrafficIQ explores how that existing infrastructure can become an intelligent congestion-monitoring network.
+
+```text
+CAMERA FEED
+     ↓
+AWS REKOGNITION
+     ↓
+CONGESTION CLASSIFICATION
+     ↓
+SERVERLESS PROCESSING
+     ↓
+REAL-TIME ALERTS + LIVE DASHBOARD
+```
+
+**Equipped stack**
+
+`AWS Rekognition` `Lambda` `DynamoDB` `SNS` `API Gateway`
+
+**Quest outcomes**
+
+- Classifies traffic as low, medium, or high congestion
+- Sends alerts when congestion levels change
+- Visualizes road conditions through a dashboard
+- Uses existing infrastructure without requiring new roadside hardware
+
+🏁 Developed during the **AI for Sustainability Hackathon 2026**.
+
+</details>
+
+---
+
+<details>
+<summary><b>🧩 QUEST 02 — Developer Behavior IDE Plugin</b></summary>
+
+### Understanding How Developers Work
+
+A JetBrains IDE extension concept exploring how activity, interruptions, workflow consistency, and coding patterns can reflect a developer's working state.
+
+**Quest focus**
+
+`JetBrains Platform` `IDE Extensions` `Developer Experience` `Product Design`
+
+**Skills gained**
+
+- Developer-centered product thinking
+- IDE extension workflows
+- Clean and maintainable implementation
+- Rapid prototyping under hackathon pressure
+- Collaborative debugging and iteration
+
+🏁 Built for the **GDG on Campus: University of Birmingham Dubai Bounty Challenge**.
+
+</details>
+
+---
+
+<details>
+<summary><b>🧠 SECRET LEVEL — Machine Learning Lab</b></summary>
+
+### 🗣️ Tweet Sentiment Analysis
+
+Classifies tweets as positive, negative, or neutral using an NLP pipeline.
+
+`Python` `Scikit-learn` `NLTK` `Matplotlib`
+
+### 📉 Customer Churn Prediction
+
+Identifies customers at risk of leaving using predictive classification.
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
+
+### 🔢 MNIST Digit Recognition
+
+Recognizes handwritten digits using a trained neural network.
+
+`TensorFlow` `Keras` `NumPy` `Matplotlib`
+
+</details>
+
+---
+
+## 🌳 Skill Tree
+
+### 🧠 Intelligence
 
 <p>
-  <a href="https://www.linkedin.com/in/kritikmahesh/">LinkedIn</a> ·
-  <a href="https://kritikmaheshkumar.netlify.app/">Portfolio</a> ·
-  <a href="mailto:your-email@example.com">Email</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
+
+### ☁️ Cloud & Data
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### ⚙️ Engineering Inventory
 
 <div align="center">
 
-### Build. Learn. Experiment. Repeat. 🚀
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,aws,firebase,flutter,mysql,linux,git,github,vscode,figma,arduino" alt="Technology stack" />
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+```text
+[ UNLOCKED ]  🎓 Computer Science & Engineering Graduate
+[ UNLOCKED ]  🏛️ Former GDSC Core Team Member
+[ UNLOCKED ]  ⚡ Former IEEE Core Team Member
+[ UNLOCKED ]  ☁️ AWS Learning Credential
+[ UNLOCKED ]  🤖 Tata Generative AI Credential
+[ UNLOCKED ]  🚦 AI for Sustainability Hackathon
+[ UNLOCKED ]  🧩 GDG Bounty Challenge
+[ ACTIVE   ]  🚀 Building the next intelligent system
+```
+
+<details>
+<summary><b>🎁 Open achievement chest</b></summary>
+
+<br />
+
+> Hackathons taught me that progress does not only come from winning.  
+> It comes from building under pressure, learning quickly, and leaving with better skills than you arrived with.
+
+</details>
+
+---
+
+## 📊 Player Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KritikMahesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Kritik's GitHub statistics" />
+
+<img src="https://streak-stats.demolab.com?user=KritikMahesh&theme=tokyonight&hide_border=true" height="170" alt="Kritik's GitHub streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&theme=tokyo-night&hide_border=true&area=true" alt="Kritik's GitHub activity graph" />
+
+</div>
+
+---
+
+## 🤝 Enter Co-op Mode
+
+Have an AI idea, engineering challenge, hackathon, or project worth building?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kritikmahesh/">
+  <img src="https://img.shields.io/badge/SEND_PARTY_INVITE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<a href="mailto:kritikmahesh@gmail.com">
+  <img src="https://img.shields.io/badge/SEND_MESSAGE-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+</a>
+
+<a href="https://kritikmaheshkumar.netlify.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_WORLD-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+```text
+> BUILD
+> LEARN
+> EXPERIMENT
+> REPEAT_
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=110&section=footer" alt="Footer" />
 
 </div>
