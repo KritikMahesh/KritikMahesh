@@ -1,23 +1,18 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=090A16&height=190&section=header&text=KRITIK%20MAHESH%20KUMAR&fontSize=54&fontColor=F4F2FF&fontAlign=50&fontAlignY=44&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Curious%20Mind&descSize=18&descAlign=50&descAlignY=72&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=14122E&height=190&section=header&text=KRITIK%20MAHESH%20KUMAR&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=44&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Curious%20Mind&descSize=18&descAlign=50&descAlignY=72&animation=fadeIn" />
-  <img width="100%" alt="Kritik Mahesh Kumar. AI Engineer, Builder, Curious Mind" src="https://capsule-render.vercel.app/api?type=rect&color=090A16&height=190&section=header&text=KRITIK%20MAHESH%20KUMAR&fontSize=54&fontColor=F4F2FF&fontAlign=50&fontAlignY=44&desc=AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Curious%20Mind&descSize=18&descAlign=50&descAlignY=72&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=090A16&height=200&section=header&text=KRITIK%20MAHESH%20KUMAR&fontSize=56&fontColor=F4F2FF&fontAlign=50&fontAlignY=42&desc=A%20KMK%20ORIGINAL%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Curious%20Mind&descSize=17&descAlign=50&descAlignY=72&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=14122E&height=200&section=header&text=KRITIK%20MAHESH%20KUMAR&fontSize=56&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&desc=A%20KMK%20ORIGINAL%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Curious%20Mind&descSize=17&descAlign=50&descAlignY=72&animation=fadeIn" />
+  <img width="100%" alt="Kritik Mahesh Kumar. A KMK Original. AI Engineer, Builder, Curious Mind" src="https://capsule-render.vercel.app/api?type=rect&color=090A16&height=200&section=header&text=KRITIK%20MAHESH%20KUMAR&fontSize=56&fontColor=F4F2FF&fontAlign=50&fontAlignY=42&desc=A%20KMK%20ORIGINAL%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Curious%20Mind&descSize=17&descAlign=50&descAlignY=72&animation=fadeIn" />
 </picture>
 
-<a href="https://kritikmaheshkumar.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=18&duration=2600&pause=1000&color=6C9CFF&center=true&vCenter=true&width=720&height=40&lines=PLAYER+01+%2F%2F+KRITIK;CLASS%3A+AI+%26+MACHINE+LEARNING+ENGINEER;MAIN+QUEST%3A+BUILD+INTELLIGENT+SYSTEMS;STATUS%3A+READY+FOR+THE+NEXT+CHALLENGE" alt="Player 01. Class: AI and Machine Learning Engineer. Main quest: build intelligent systems." />
-</a>
+<a href="https://kritikmaheshkumar.netlify.app/"><img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=18&duration=2600&pause=1000&color=A08BFF&center=true&vCenter=true&width=720&height=40&lines=PLAYER+01+%2F%2F+KRITIK;CLASS%3A+AI+%26+MACHINE+LEARNING+ENGINEER;MAIN+QUEST%3A+BUILD+INTELLIGENT+SYSTEMS;STATUS%3A+READY+FOR+THE+NEXT+CHALLENGE" alt="Player 01. Class: AI and Machine Learning Engineer. Main quest: build intelligent systems." /></a>
 
-<br />
+<a href="https://kritikmaheshkumar.netlify.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20%20WATCH%20KMK%20ORIGINALS-FFFFFF?style=for-the-badge&labelColor=FFFFFF" alt="Watch KMK Originals" /></a>
+<a href="https://www.linkedin.com/in/kritikmahesh/"><img src="https://img.shields.io/badge/LINKEDIN-2F5BEA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kritikmahesh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="https://kritikmaheshkumar.netlify.app/"><img src="https://img.shields.io/badge/WATCH%20KMK%20ORIGINALS-5B3FD9?style=for-the-badge&logo=netflix&logoColor=white&labelColor=090A16" alt="Portfolio: KMK Originals" /></a>
-<a href="https://www.linkedin.com/in/kritikmahesh/"><img src="https://img.shields.io/badge/LINKEDIN-2F5BEA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090A16" alt="LinkedIn" /></a>
-<a href="mailto:kritikmahesh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090A16" alt="Email" /></a>
-
-<sub><a href="#main-quest"><b>Main Quest</b></a> &nbsp;·&nbsp; <a href="#quest-log"><b>Quest Log</b></a> &nbsp;·&nbsp; <a href="#skill-tree"><b>Skill Tree</b></a> &nbsp;·&nbsp; <a href="#achievements"><b>Achievements</b></a> &nbsp;·&nbsp; <a href="#player-telemetry"><b>Player Stats</b></a> &nbsp;·&nbsp; <a href="#enter-co-op-mode"><b>Co-op Mode</b></a></sub>
+<sub><a href="#kmk-originals"><b>KMK Originals</b></a> &nbsp;·&nbsp; <a href="#main-quest"><b>Main Quest</b></a> &nbsp;·&nbsp; <a href="#quest-log"><b>Quest Log</b></a> &nbsp;·&nbsp; <a href="#top-10-in-dubai-today"><b>Top 10</b></a> &nbsp;·&nbsp; <a href="#skill-tree"><b>Skill Tree</b></a> &nbsp;·&nbsp; <a href="#player-telemetry"><b>Player Stats</b></a> &nbsp;·&nbsp; <a href="#enter-co-op-mode"><b>Co-op Mode</b></a></sub>
 
 </div>
 
@@ -25,9 +20,8 @@
 
 ## Player Profile
 
-| | |
+| **Player 01** | **Kritik Mahesh Kumar** |
 |:--|:--|
-| **Name** | Kritik Mahesh Kumar |
 | **Class** | AI & Machine Learning Engineer |
 | **Origin** | Computer Science & Engineering |
 | **Academy** | MAHE Dubai |
@@ -41,17 +35,27 @@ My focus is not just training models. I want to turn ideas into working products
 
 <br />
 
+## KMK Originals
+
+| Title | Logline | Watch |
+|:--|:--|:--:|
+| **NeuroSense** &nbsp;![](https://img.shields.io/badge/BEST%20PAPER-A08BFF?style=flat-square) | Real-time cognitive load detection from facial expressions and simulated EEG | [![](https://img.shields.io/badge/%E2%96%B6%20PORTFOLIO-090A16?style=flat-square)](https://kritikmaheshkumar.netlify.app/) |
+| **Fraud Detection** | Flags the few fraudulent transactions hiding in heavily imbalanced data | [![](https://img.shields.io/badge/CODE-090A16?style=flat-square&logo=github&logoColor=white)](https://github.com/KritikMahesh/Fraud-Detection-Project) |
+| **Markov Text** | A probabilistic text generator that writes new sentences from word probabilities | [![](https://img.shields.io/badge/CODE-090A16?style=flat-square&logo=github&logoColor=white)](https://github.com/KritikMahesh/Text-Generation-with-Markov-Chains) |
+| **Handwritten Digits** | Recognizes handwritten digits with a trained neural network | [![](https://img.shields.io/badge/CODE-090A16?style=flat-square&logo=github&logoColor=white)](https://github.com/KritikMahesh/CODING-SAMURAI-INTERNSHIP-TASK) |
+| **Tweet Sentiment** | Classifies tweets as positive, negative, or neutral with an NLP pipeline | [![](https://img.shields.io/badge/CODE-090A16?style=flat-square&logo=github&logoColor=white)](https://github.com/KritikMahesh/CODING-SAMURAI-INTERNSHIP-TASK) |
+
+<br />
+
 ## Main Quest
 
 > ### Build intelligent systems that create real-world value.
 
-| Current mission | |
-|:--|:--:|
-| Explore Generative AI and autonomous agents | ▶ |
-| Build cloud-native AI applications | ▶ |
-| Apply computer vision to urban challenges | ▶ |
-| Create useful developer tools | ▶ |
-| Keep learning through projects and hackathons | ▶ |
+- Explore Generative AI and autonomous agents
+- Build cloud-native AI applications
+- Apply computer vision to urban challenges
+- Create useful developer tools
+- Keep learning through projects and hackathons
 
 <details>
 <summary><b>Inspect player background</b></summary>
@@ -85,10 +89,13 @@ My focus is not just training models. I want to turn ideas into working products
 
 Cities already have thousands of cameras generating unused visual data. TrafficIQ explores how that existing infrastructure can become an intelligent congestion-monitoring network.
 
-```mermaid
-flowchart LR
-  A[Camera feed] --> B[AWS Rekognition] --> C[Congestion classification] --> D[Serverless processing] --> E[Real-time alerts + live dashboard]
-```
+<p align="center">
+<img src="https://img.shields.io/badge/CAMERA%20FEED-13142B?style=for-the-badge" alt="Camera feed" /> →
+<img src="https://img.shields.io/badge/REKOGNITION-2F5BEA?style=for-the-badge" alt="AWS Rekognition" /> →
+<img src="https://img.shields.io/badge/LOW%20%C2%B7%20MED%20%C2%B7%20HIGH-5B3FD9?style=for-the-badge" alt="Congestion classification" /> →
+<img src="https://img.shields.io/badge/SERVERLESS-9333EA?style=for-the-badge" alt="Serverless processing" /> →
+<img src="https://img.shields.io/badge/LIVE%20ALERTS-F4F2FF?style=for-the-badge" alt="Real-time alerts and live dashboard" />
+</p>
 
 **Equipped stack** &nbsp; `AWS Rekognition` `Lambda` `DynamoDB` `SNS` `API Gateway`
 
@@ -126,6 +133,7 @@ Built for the **GDG on Campus: University of Birmingham Dubai Bounty Challenge**
 
 <details>
 <summary><b>Secret Level &nbsp;·&nbsp; Machine Learning Lab</b></summary>
+<br />
 
 | Model | What it does | Stack |
 |:--|:--|:--|
@@ -137,34 +145,21 @@ Built for the **GDG on Campus: University of Birmingham Dubai Bounty Challenge**
 
 <br />
 
-## Skill Tree
+## Top 10 in Dubai today
 
-<table>
-<tr>
-<td width="200"><b>Intelligence & Data</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas,kaggle,jupyter,googlecolab&perline=10" alt="Python, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, Pandas, Kaggle, Jupyter, Google Colab" /></td>
-</tr>
-<tr>
-<td><b>Cloud & Backend</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,firebase,mysql,dynamodb,lambda,apigateway" alt="AWS, Azure, Firebase, MySQL, DynamoDB, Lambda, API Gateway" /></td>
-</tr>
-<tr>
-<td><b>Languages & Apps</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=java,cpp,c,flutter,arduino" alt="Java, C++, C, Flutter, Arduino" /></td>
-</tr>
-<tr>
-<td><b>Systems & Tools</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,redhat,vscode,visualstudio,git,github,stackoverflow" alt="Linux, Red Hat, VS Code, Visual Studio, Git, GitHub, Stack Overflow" /></td>
-</tr>
-<tr>
-<td><b>Design & Simulation</b></td>
-<td><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,framer,matlab,blender" alt="Figma, Canva, Framer, MATLAB, Blender" /></td>
-</tr>
-</table>
+| | Title | Result |
+|:--:|:--|:--|
+| ![](https://img.shields.io/badge/1-2F5BEA?style=for-the-badge) | **Best Paper** | AEIT 2025 · NeuroSense |
+| ![](https://img.shields.io/badge/2-2F5BEA?style=for-the-badge) | **RIFT CTF** | 2nd of 22 teams · GDG BITS Dubai |
+| ![](https://img.shields.io/badge/3-5B3FD9?style=for-the-badge) | **Capture the Flag** | #468 of 6,000+ teams · Hack The Box |
+| ![](https://img.shields.io/badge/4-5B3FD9?style=for-the-badge) | **AI vs Human** | 38th of 404 teams · Hack The Box |
+| ![](https://img.shields.io/badge/5-9333EA?style=for-the-badge) | **IEEEXtreme 18.0** | 8th nationally · 2024 |
+| ![](https://img.shields.io/badge/6-9333EA?style=for-the-badge) | **MakeX Robotics** | Runner-up 2023 and 2024 |
+| ![](https://img.shields.io/badge/7-14122E?style=for-the-badge) | **E33 CoLabs** | KHDA · Nov 2025 |
 
+<details>
+<summary><b>Open achievement chest</b></summary>
 <br />
-
-## Achievements
 
 | | Achievement |
 |:--:|:--|
@@ -177,10 +172,6 @@ Built for the **GDG on Campus: University of Birmingham Dubai Bounty Challenge**
 | ![](https://img.shields.io/badge/UNLOCKED-2F5BEA?style=flat-square) | GDG Bounty Challenge |
 | ![](https://img.shields.io/badge/ACTIVE-9333EA?style=flat-square) | **Building the next intelligent system** |
 
-<details>
-<summary><b>Open achievement chest</b></summary>
-<br />
-
 > Hackathons taught me that progress does not only come from winning.
 > It comes from building under pressure, learning quickly, and leaving with better skills than you arrived with.
 
@@ -188,23 +179,27 @@ Built for the **GDG on Campus: University of Birmingham Dubai Bounty Challenge**
 
 <br />
 
+## Skill Tree
+
+<table>
+<tr><td width="200"><b>Intelligence & Data</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,scikitlearn,huggingface,opencv,numpy,pandas,kaggle,jupyter,googlecolab&perline=10" alt="Python, TensorFlow, Scikit-learn, Hugging Face, OpenCV, NumPy, Pandas, Kaggle, Jupyter, Google Colab" /></td></tr>
+<tr><td><b>Cloud & Backend</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,firebase,mysql,dynamodb,lambda,apigateway" alt="AWS, Azure, Firebase, MySQL, DynamoDB, Lambda, API Gateway" /></td></tr>
+<tr><td><b>Languages & Apps</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=java,cpp,c,flutter,arduino" alt="Java, C++, C, Flutter, Arduino" /></td></tr>
+<tr><td><b>Systems & Tools</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=linux,redhat,vscode,visualstudio,git,github,stackoverflow" alt="Linux, Red Hat, VS Code, Visual Studio, Git, GitHub, Stack Overflow" /></td></tr>
+<tr><td><b>Design & Simulation</b></td><td><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,framer,matlab,blender" alt="Figma, Canva, Framer, MATLAB, Blender" /></td></tr>
+</table>
+
+<br />
+
 ## Player Telemetry
 
-<div align="center">
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KritikMahesh&hide_border=true&background=090A16&stroke=33335A&ring=5B3FD9&fire=6C9CFF&currStreakNum=F4F2FF&sideNums=F4F2FF&currStreakLabel=A08BFF&sideLabels=A9A8C8&dates=7E7CA0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=KritikMahesh&hide_border=true&background=F5F4FC&stroke=D3D1EA&ring=5B3FD9&fire=2F5BEA&currStreakNum=14122E&sideNums=14122E&currStreakLabel=5B3FD9&sideLabels=55537A&dates=6F6E93" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=KritikMahesh&hide_border=true&background=090A16&stroke=33335A&ring=5B3FD9&fire=6C9CFF&currStreakNum=F4F2FF&sideNums=F4F2FF&currStreakLabel=A08BFF&sideLabels=A9A8C8&dates=7E7CA0" alt="Kritik's GitHub streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KritikMahesh&disable_animations=true&hide_border=true&background=090A16&stroke=33335A&ring=5B3FD9&fire=6C9CFF&currStreakNum=F4F2FF&sideNums=F4F2FF&currStreakLabel=A08BFF&sideLabels=A9A8C8&dates=7E7CA0" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=KritikMahesh&disable_animations=true&hide_border=true&background=F5F4FC&stroke=D3D1EA&ring=5B3FD9&fire=2F5BEA&currStreakNum=14122E&sideNums=14122E&currStreakLabel=5B3FD9&sideLabels=55537A&dates=6F6E93" />
+  <img src="https://streak-stats.demolab.com?user=KritikMahesh&disable_animations=true&hide_border=true&background=090A16&stroke=33335A&ring=5B3FD9&fire=6C9CFF&currStreakNum=F4F2FF&sideNums=F4F2FF&currStreakLabel=A08BFF&sideLabels=A9A8C8&dates=7E7CA0" alt="Kritik's GitHub streak" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&bg_color=090A16&color=A9A8C8&title_color=F4F2FF&line=6C9CFF&point=F4F2FF&area=true&area_color=5B3FD9&hide_border=true&custom_title=Player%20activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&bg_color=F5F4FC&color=55537A&title_color=14122E&line=2F5BEA&point=14122E&area=true&area_color=A08BFF&hide_border=true&custom_title=Player%20activity" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KritikMahesh&bg_color=090A16&color=A9A8C8&title_color=F4F2FF&line=6C9CFF&point=F4F2FF&area=true&area_color=5B3FD9&hide_border=true&custom_title=Player%20activity" alt="Kritik's GitHub activity graph" />
-</picture>
-
-</div>
+</p>
 
 <br />
 
@@ -212,9 +207,9 @@ Built for the **GDG on Campus: University of Birmingham Dubai Bounty Challenge**
 
 Have an AI idea, engineering challenge, hackathon, or project worth building?
 
-<a href="https://www.linkedin.com/in/kritikmahesh/"><img src="https://img.shields.io/badge/SEND%20PARTY%20INVITE-2F5BEA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090A16" alt="Connect on LinkedIn" /></a>
-<a href="mailto:kritikmahesh@gmail.com"><img src="https://img.shields.io/badge/SEND%20MESSAGE-9333EA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090A16" alt="Send an email" /></a>
-<a href="https://kritikmaheshkumar.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORLD-5B3FD9?style=for-the-badge&logo=netflix&logoColor=white&labelColor=090A16" alt="View portfolio" /></a>
+<a href="https://www.linkedin.com/in/kritikmahesh/"><img src="https://img.shields.io/badge/SEND%20PARTY%20INVITE-2F5BEA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:kritikmahesh@gmail.com"><img src="https://img.shields.io/badge/SEND%20MESSAGE-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://kritikmaheshkumar.netlify.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20%20EXPLORE%20MY%20WORLD-FFFFFF?style=for-the-badge" alt="View portfolio" /></a>
 
 <br /><br />
 
